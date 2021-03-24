@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1615538669 source:e:\mihu\unibuc\onedrive - unibuc.ro\anul1\sem2\lfa\lab\proiect 1\mealy-dfa\main.cpp
+	<iostream>
+	<vector>
+	<fstream>
+	<string.h>
+

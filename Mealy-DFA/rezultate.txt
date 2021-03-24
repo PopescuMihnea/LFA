@@ -1,0 +1,12 @@
+NU
+
+DA
+Output: 01113333
+Traseu: 0 1 1 1 3 3 3 3 3 
+
+NU
+
+DA
+Output: 02222100
+Traseu: 0 1 2 2 2 2 3 3 3 
+
