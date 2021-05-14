@@ -49,7 +49,7 @@ int main() {
     for (i = 0; i < N; ++i)
       for (j = 0; j < M; ++j)
         if (lista_adiacenta[i][j] == "")
-          lista_adiacenta[i][j] = N;
+          lista_adiacenta[i][j] = to_string(N);
     for (j = 0; j < M; ++j)
       lista_adiacenta[N][j] = to_string(N);
     ++N;
