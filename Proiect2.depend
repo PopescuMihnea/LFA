@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1620068342 source:d:\unibuc\onedrive - unibuc.ro\anul1\sem2\lfa\lab\proiect2\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<unordered_map>
+	<unordered_set>
+
+1620146343 source:e:\mihu\unibuc\onedrive - unibuc.ro\anul1\sem2\lfa\lab\proiect2\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<unordered_map>
+	<set>
+	<unordered_set>
+
